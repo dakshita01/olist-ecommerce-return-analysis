@@ -30,7 +30,7 @@ The original dataset had no return flag. I engineered the `is_returned` column u
 
 ## Dashboard
 
-![Olist Return Analysis Dashboard](dashboard.png)
+![Olist Return Analysis Dashboard](dashboard.jpeg)
 
 ---
 
